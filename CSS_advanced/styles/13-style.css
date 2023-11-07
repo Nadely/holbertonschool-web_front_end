@@ -36,7 +36,12 @@ body {
 	line-height: var(--line-height-base);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	font-family: var(--font-family-title);
 	font-weight: var(--font-weight-bold);
 }
@@ -71,7 +76,7 @@ a:active {
 	text-align: var(--section-header-align);
 }
 
-.section-title{
+.section-title {
 	font-family: var(--font-family-title);
 	font-size: var(--font-size-xx-large);
 	font-weight: var(--font-weight-bold);
