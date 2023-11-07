@@ -1,6 +1,4 @@
 html
 	{
-	scroll-behavior:
-		auto
-		smooth
+	scroll-behavior: smooth;
 	}
