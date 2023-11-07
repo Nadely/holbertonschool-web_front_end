@@ -228,7 +228,6 @@ template {
 html {
 	scroll-behavior: smooth;
 	font-size: 62.5%;
-	/*# sourceMappingURL=normalize.min.css.map */
 }
 
 body {
@@ -271,7 +270,7 @@ a:active {
 	display: none;
 }
 
-.card-category {
+.card-category, .section-tagline {
 	color: var(--color-primary);
 }
 
